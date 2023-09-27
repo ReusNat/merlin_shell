@@ -5,7 +5,6 @@
 #include <string.h>
 #include <errno.h>
 #include "functions.h"
-#include <stdio.h>
 
 /* Coding assistant: Merlin
     |\__/,|   (`\
